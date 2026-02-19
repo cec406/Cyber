@@ -69,19 +69,28 @@ Run as administrator/root — Nmap and Hydra require elevated privileges for ful
 Performance — Small wordlists = fast tests; large lists (full rockyou) = longer runtime.
 Limitations — Assumes default /manager/html exposure; modern Tomcat often has protections (locking, IP restrictions).
 Output — Console only (redirect to file if needed: > report.txt)
+```
 
-About Grizzly System Engineering
-Home-based in East Helena, Montana, we provide reliable IT solutions statewide:
+## About Grizzly System Engineering
 
-Custom PC & server builds
-Secure network setup (including Starlink)
-Cybersecurity audits & penetration testing
-Computer repair, data recovery, digital forensics
-Custom applications, automation & scripting
+Home-based in **East Helena, Montana**, Grizzly System Engineering delivers reliable, no-nonsense IT solutions across the state — from rural ranches to Helena businesses.
 
-Website: https://grizzlyse.com
-Email: info@grizzlyse.com
-Phone/Text: (406) 439-8127
-Need professional Tomcat hardening, full pentest services, or secure application deployment? Get in touch — we serve Helena, East Helena, and all of Montana.
+### Our Core Services
+- Custom PC & server builds (high-performance, workload-tailored)
+- Secure network setup & internet solutions (including Starlink for remote Montana locations)
+- Cybersecurity audits, penetration testing & hardening (e.g., Tomcat, web apps, servers)
+- Computer repair, optimization, data recovery & digital forensics
+- Custom applications, automation scripts & Python tooling
+
+### Get in Touch
+- **Website**: [grizzlyse.com](https://grizzlyse.com)
+- **Email**: [info@grizzlyse.com](mailto:info@grizzlyse.com)
+- **Phone/Text**: (406) 439-8127
+
+Need professional Tomcat hardening, a full pentest, secure application deployment, or help grizzly-proofing your tech?  
+We're ready — serving Helena, East Helena, and all of Montana.
+
 Made with 🐻 in the Montana mountains.
-License: For personal/authorized lab use only. No redistribution without permission.
+
+**License**  
+For personal or authorized lab/testing use only. No redistribution or commercial use without explicit permission.
