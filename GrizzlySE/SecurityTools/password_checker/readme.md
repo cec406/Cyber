@@ -33,7 +33,7 @@ Perfect for:
 
 1. **Download the tool**  
    Clone the repo or download just the password-checker folder:
-git clone https://github.com/cec406/Cyber/GrizzlySE/SecurityTools/Password_checker.git
+git clone https://github.com/cec406/Cyber/GrizzlySE/SecurityTools/password_checker.git
 cd grizzly-tools/password-checker
 text2. **Add a common passwords list** (required for leak detection)  
 Download one of these free, high-quality lists and save it as `common_passwords.txt` in the same folder as the script:
