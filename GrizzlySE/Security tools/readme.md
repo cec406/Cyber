@@ -90,5 +90,5 @@ Made with 🐻 in Montana.
 
 
 <p align="center">
-  <img src="assets/logo/grizzly-logo.png" alt="Grizzly System Engineering Logo" width="220">
+  <img src="grizzly-logo.png" alt="Grizzly System Engineering Logo" width="220">
 </p>
