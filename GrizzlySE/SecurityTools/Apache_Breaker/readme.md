@@ -35,8 +35,8 @@ Use **only** in controlled lab environments, CTF challenges, or approved client 
 ## Installation & Setup
 
 1. **Clone or download**
-git clone https://github.com/cec406/grizzly-tools.git
-cd grizzly-tools/apache-tomcat-breaker
+git clone https://github.com/cec406/Cyber/GrizzlySE/SecurityTools/Apache_Breaker.git
+cd Apache_Breaker
 text2. **Prepare wordlists** (place in same folder or use full paths)  
 - Username list: `users.txt`  
 - Password list: `passwords.txt` (rockyou.txt is a good start)  
@@ -47,13 +47,13 @@ Examples:
 
 ```bash
 # Separate username + password lists
-python apache_tomcat_breaker.py 192.168.56.0/24 -L users.txt -P passwords.txt
+python apache_breaker.py 192.168.56.0/24 -L users.txt -P passwords.txt
 
 # Combined credential list (faster/more efficient)
-python apache_tomcat_breaker.py 192.168.56.101 -C combos.txt
+python apache_breaker.py 192.168.56.101 -C combos.txt
 
 # Force HTTPS protocol
-python apache_tomcat_breaker.py 10.10.10.10 -C combos.txt -p https
+python apache_breaker.py 10.10.10.10 -C combos.txt -p https
 Windows one-click option:
 Create run.bat in the folder:
 text@echo off
