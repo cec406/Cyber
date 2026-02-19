@@ -39,8 +39,9 @@ Perfect for:
 
 2. **Install Python dependencies**  
    Open Command Prompt (Windows) or Terminal (macOS/Linux) and run:pip install python-nmap coloramatext3. **Get the tool**  
-Option 1: Clone the repo (if you have Git installed)git clone https://github.com/[your-username]/grizzly-security-scan.git
-cd grizzly-security-scantextOption 2: Download `grizzly_scan.py` directly from this repository and save it to any folder.
+Option 1: Clone the repo (if you have Git installed)git clone https://github.com/cec406/Cyber/GrizzlySE/SecurityTools/GrizzlyScanner/grizzly-security-scan.git
+cd grizzly-security-scantext
+Option 2: Download `grizzly_scan.py` directly from this repository and save it to any folder.
 
 ## Usage
 
