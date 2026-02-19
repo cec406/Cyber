@@ -35,8 +35,8 @@ Use **only** in controlled lab environments, CTF challenges, or approved client 
 ## Installation & Setup
 
 1. **Clone or download**
-git clone https://github.com/cec406/Cyber/GrizzlySE/SecurityTools/Apache_Breaker.git
-cd Apache_Breaker
+git clone https://github.com/cec406/Cyber/GrizzlySE/SecurityTools/Apache_Breaker
+- cd Apache_Breaker
 text2. **Prepare wordlists** (place in same folder or use full paths)  
 - Username list: `users.txt`  
 - Password list: `passwords.txt` (rockyou.txt is a good start)  
