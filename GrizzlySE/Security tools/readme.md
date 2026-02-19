@@ -3,7 +3,7 @@
 **Lightweight Cybersecurity Audit Tool**  
 Built by **Grizzly System Engineering** – Montana-based IT solutions from East Helena.
 
-![Grizzly Logo](grizzly-logo.png) <!-- Update path if your logo is elsewhere -->
+![Grizzly Logo](Cyber/GrizzlySE/Security tools/grizzly-logo.png) 
 
 Grizzly Security Scan is a simple, ethical, command-line tool for performing quick, non-intrusive security audits on your own networks or devices. It uses Nmap to identify open ports, detect services/versions, run safe vulnerability scripts, and provide clear risk flags + recommendations.
 
