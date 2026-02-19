@@ -87,4 +87,8 @@ MIT License – feel free to use, modify, and distribute.
 Attribution appreciated: "Built with help from Grizzly System Engineering".
 
 Made with 🐻 in Montana.
-<img src="grizzly-logo.png" alt="Grizzly System Engineering Logo" width="200">
+
+
+<p align="center">
+  <img src="assets/logo/grizzly-logo.png" alt="Grizzly System Engineering Logo" width="220">
+</p>
